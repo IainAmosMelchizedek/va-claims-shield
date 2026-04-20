@@ -44,9 +44,42 @@
 
 ---
 
+## Phase 4 — Public Conduct Registry
+
+**Goal:** A structured, searchable public record of documented administrative conduct by VA employees and other public officials acting in their official capacity. Not a complaint board. Not a forum. A factual registry.
+
+**What it records:**
+- Name and title of the public official (public record — officials acting in official capacity have no privacy expectation regarding those actions)
+- The VA office, department, or apparatus they operate within
+- The specific federal regulation, law, or stated VA policy they were asked to follow
+- The action they took instead
+- The outcome for the veteran
+- Supporting documentation (uploaded PDFs, correspondence, case numbers)
+
+**What it does not do:**
+- It does not editorialize
+- It does not allow anonymous unsubstantiated claims
+- It does not file complaints with agencies that will not act on them
+- It does not ask permission from the institution it documents
+
+**Why this matters:**
+OIG complaints go nowhere. Whistleblower filings are absorbed by the same institutional body they name. The mechanism that is supposed to hold federal employees accountable reports to the same administrative structure those employees serve. Private citizens in 2026 have the infrastructure to create a public record that operates entirely outside that loop — one that is factual, sourced, and permanent.
+
+A public official who closes a veteran's case under a term that does not exist in federal regulation has created a documented fact. This tool ensures that fact has a permanent home that is findable, citable, and beyond the reach of the institution that created it.
+
+**Components:**
+- [ ] Official registry database (name, title, office, action, regulation cited, outcome)
+- [ ] Document upload and attachment per record
+- [ ] Public search interface
+- [ ] Record verification layer (no anonymous unsubstantiated entries)
+- [ ] Export individual records as sourced PDF for legal use
+
+---
+
 ## Future Considerations
 
 - Integration with VA Claims Status API (currently internal-only — monitoring for public access)
 - VSO dashboard for managing multiple veteran submissions
 - Export audit log as PDF for legal proceedings
 - Mobile-responsive interface
+- Cross-agency expansion beyond VA — the same administrative conduct patterns exist across all federal and state agencies

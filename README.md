@@ -1,21 +1,23 @@
 # VA Claims Shield
 
-> **A veteran-built, open-source toolkit for submitting, tracking, and defending VA benefits claims.**
-> Because the VA shouldn't be the only one with infrastructure.
+> **A veteran-built, open-source toolkit for submitting, tracking, and documenting VA benefits claims with precision, clarity, and irrefutable record.**
+> Because accurate documentation is not aggression — it is simply the truth, stated clearly.
 
 ---
 
 ## We Are Actively Seeking Contributors
 
-If you are a veteran, a developer, a legal advocate, or anyone who has watched the VA lose documents, close cases without cause, or stonewallclaims — **this project is for you.**
+If you are a veteran, a developer, a legal advocate, or anyone who has watched the VA lose documents, close cases without cause, or deny claims that were clearly supported by evidence — **this project is for you.**
 
-The U.S. Department of Veterans Affairs operates a document intake system that is opaque, unaccountable, and designed in a way that makes it nearly impossible for a veteran to prove what they submitted, when they submitted it, or whether it was ever received. Veterans are told their documents were never received. Appeals are closed without explanation. Cases are assigned to political appointees with no accountability.
+The U.S. Department of Veterans Affairs operates a document intake system that is opaque and unaccountable. Veterans are told their documents were never received. Appeals are closed without explanation. Claims are denied not because the evidence is absent, but because the administrative apparatus that processes them is loyal to political outcomes rather than factual ones.
 
-This project builds the infrastructure to fight back.
+This project does not oppose that apparatus. It simply refuses to participate in the confusion it creates.
 
-We are building a suite of open-source tools that give veterans — and the advocates who support them — the same kind of institutional power the VA already has. Programmatic document submission. Irrefutable audit trails. Status tracking. Evidence package builders. All built on the VA's own publicly available APIs, turned back around in service of the people those APIs were supposed to serve.
+We are building a suite of open-source tools that give veterans — and the advocates who support them — the capacity to document everything with precision: what was submitted, when it was submitted, what the system received, and what changed. These tools are built on the VA's own publicly available APIs. They ask nothing of the VA except that it behave consistently with its own stated infrastructure.
 
-**This is not a charity project. This is a weapons-grade accountability toolkit.**
+A veteran who can prove exactly what they submitted, exactly when they submitted it, and exactly what the VA's own system recorded — is a veteran who has removed the fog that administrative denial depends on.
+
+**This is not about opposition. It is about clarity. And clarity, stated plainly, is something no bureaucratic interpretation can override.**
 
 ---
 
@@ -36,9 +38,16 @@ A guided tool that walks a veteran through building a complete evidence package 
 
 **The problem it solves:** Veterans don't know what to submit or how to organize it. This tool makes a complete, properly structured submission accessible to anyone.
 
----
+### Phase 4 — Public Conduct Registry
+A structured, searchable public record of documented administrative conduct by VA employees and public officials acting in their official capacity. Not a complaint board. Not a forum. A factual registry of names, positions, regulations cited, actions taken, and outcomes recorded — with supporting documentation attached.
 
-## The API
+This tool exists because OIG complaints go nowhere. Whistleblower filings are absorbed by the same institutional body they name. The mechanism that is supposed to hold federal employees accountable reports to the same administrative structure those employees serve.
+
+Private citizens in 2026 have the infrastructure to build something that operates entirely outside that loop. A public official who closes a veteran's case under a term that does not exist in federal regulation has created a documented fact. This tool gives that fact a permanent, searchable, citable home.
+
+**The position this tool operates from:** We are not opposing anyone. We are not filing complaints with agencies that will not act on them. We are simply documenting what occurred, as it occurred, and making that documentation publicly accessible. Public officials acting in their official capacity have no expectation of privacy regarding those actions. That is not a political statement. It is the law.
+
+---
 
 This project is built on the **VA Benefits Intake API**, a publicly available API provided by the U.S. Department of Veterans Affairs through their Lighthouse developer platform.
 
@@ -221,4 +230,4 @@ MIT — use it, fork it, build on it. Just don't use it to harm veterans.
 
 ---
 
-*Built by a veteran. For veterans. Against the institution that was supposed to serve them.*
+*Built by a veteran. For veterans. Grounded in the position that the truth, documented precisely, does not require the permission of the institution it addresses.*
