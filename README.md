@@ -182,7 +182,11 @@ VA_API_BASE_URL=https://sandbox-api.va.gov
 
 ## How to Contribute
 
-We need developers, designers, veterans, legal advocates, and people who are just angry enough to do something about it.
+We are looking for people who have stopped participating in the illusion.
+
+Not people who are angry — anger still gives the illusion something to push against. We are looking for people who have simply seen it clearly enough that they no longer take it seriously as an authority, and who understand that the most effective response to an institution that contradicts its own stated law is to document that contradiction precisely and make it permanently visible.
+
+If you are a veteran who submitted documentation that was ignored, had a case closed under terms that do not exist in federal regulation, was told your evidence was insufficient when it demonstrably was not, or filed a complaint with an oversight body that reported to the same structure it was supposed to oversee — your experience is not just valid, it is the architectural blueprint for what this project builds.
 
 ### If you are a developer:
 - Check the **Issues** tab for open tasks
@@ -191,12 +195,12 @@ We need developers, designers, veterans, legal advocates, and people who are jus
 - All pull requests require a description of what you changed and why
 
 ### If you are a veteran:
-- Open an issue describing a problem you have experienced with the VA claims process
-- Your experience is the product roadmap
+- Open an issue describing what happened — specifically what regulation was cited, what action was taken instead, and what the outcome was
+- Your documented experience is the product roadmap
 
 ### If you are a legal advocate or VSO:
-- Open an issue or start a Discussion describing what tools would be most useful to your clients
-- We want to build what actually helps people, not what sounds good on paper
+- Open an issue or start a Discussion describing what tools would be most useful to the people you work with
+- We build what actually serves people, not what sounds functional on paper
 
 ### Code Standards
 - Industry standard practices only
@@ -212,7 +216,7 @@ This project was initiated by **Iain Melchizedek**, a U.S. veteran, former feder
 
 Iain has 17 years of federal government experience and has personally experienced the VA's pattern of administrative obstruction, case closure without cause, and institutional indifference. He built this project because he got a sandbox API key, tested it in an afternoon, and realized the VA's own infrastructure could be used to hold them accountable.
 
-He is not waiting for the VA to fix itself. He is building the tools to make fixing unnecessary.
+He is not petitioning the VA to be better. He is building infrastructure that operates from outside the illusion entirely — one that documents what occurred, as it occurred, and places that documentation permanently beyond the reach of the institution it addresses.
 
 ---
 
